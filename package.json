@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@distube": "^4.1.0",
+    "distube": "^4.1.0",
     "@distube/spotify": "^4.0.3",
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5"
